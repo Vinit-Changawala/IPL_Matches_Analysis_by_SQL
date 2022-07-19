@@ -1,8 +1,18 @@
 # IPL_Matches_Analysis_by_SQL
 
-One of the most popular League in the world is IPL(Indian Premier League) which started in 2007 and it is one the most loved and watched League in the world.
+One of the most popular League in the world is IPL(Indian Premier League) which started in 2008 and it is one the most loved and watched League in the world.
 
 The IPL dataset is provided into two csv files balls and matches. In Matches all information related matches are given and in Balls information related to bowlers is given.
+
+Both Tables schemas are show in below images:
+
+![image](https://user-images.githubusercontent.com/92297330/179774863-3582ca15-81a1-42b1-8bc6-0326d9605236.png)
+
+ball-by-ball data
+
+![image](https://user-images.githubusercontent.com/92297330/179774988-4aa7dfe7-80cf-411a-bfcb-120b3e2637cb.png)
+
+match-wise data
 
 Here the Microsoft SQL Server Management Studio(SSMS) is used to run SQL queries.
 
